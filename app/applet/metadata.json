@@ -1,0 +1,6 @@
+{
+  "name": "Nabung By. Zava",
+  "description": "Aplikasi pencatatan keuangan, tabungan, dan wishlist offline pribadi dengan keamanan PIN dan biometrik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
